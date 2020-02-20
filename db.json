@@ -1,0 +1,86 @@
+{
+  "books": [
+    {
+      "name": "The Fellowship of the Ring",
+      "authorId": 1,
+      "id": 1
+    },
+    {
+      "name": "The Two Towers",
+      "authorId": 1,
+      "id": 2
+    },
+    {
+      "name": "The Return of the King",
+      "authorId": 1,
+      "id": 3
+    },
+    {
+      "name": "The Hobbit",
+      "authorId": 1,
+      "id": 4
+    },
+    {
+      "name": "The Raven",
+      "authorId": 2,
+      "id": 5
+    },
+    {
+      "name": "The song of Fire and Ice",
+      "authorId": 3,
+      "id": 6
+    },
+    {
+      "name": "A game of thrones",
+      "authorId": 3,
+      "id": 7
+    },
+    {
+      "name": "Winds of Winter",
+      "authorId": 3,
+      "id": 8
+    },
+    {
+      "name": "The Eye of the World",
+      "authorId": 4,
+      "id": 9
+    },
+    {
+      "name": "The Great Hunt",
+      "authorId": 4,
+      "id": 10
+    },
+    {
+      "name": "The Dragon Reborn",
+      "authorId": 4,
+      "id": 11
+    },
+    {
+      "name": "Heir to the Empire",
+      "authorId": 5,
+      "id": 12
+    }
+  ],
+  "authors": [
+    {
+      "name": "JRR Tokien",
+      "id": 1
+    },
+    {
+      "name": "Edgar Alan Poe",
+      "id": 2
+    },
+    {
+      "name": "George RR Martin",
+      "id": 3
+    },
+    {
+      "name": "Robert Jordan",
+      "id": 4
+    },
+    {
+      "name": "Timothy Zahn",
+      "id": 5
+    }
+  ]
+}
